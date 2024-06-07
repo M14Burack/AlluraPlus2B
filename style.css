@@ -27,5 +27,9 @@ body{
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
-
+    display: block;
+}
+botao-secundario{
+    background-color: transparent;
+    border: 2px var(--branco-principal);
 }
